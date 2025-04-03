@@ -111,4 +111,4 @@ window.addEventListener('beforeunload', () => {
   }
 });
 
-console.log('VoiceBridge speech utilities loaded'); 
+console.log('VoiceBridge speech utilities loaded');
